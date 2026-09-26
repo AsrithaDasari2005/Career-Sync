@@ -81,13 +81,14 @@ Open your browser and visit:
 * This project is for educational and demonstrative purposes.
 
 ---
-
 ## 🙋‍♀️ Author
 
-**Sindhuja Pyla**
-🔗 [GitHub](https://github.com/sindhupyla)
-🔗 [LeetCode](https://leetcode.com/u/Sindhu_Indus/)
-🔗 [HackerRank](https://www.hackerrank.com/profile/sindhu_pyla)
+**Asritha Dasari**
+
+🔗 [GitHub](https://github.com/AsrithaDasari2005)
+🔗 [LeetCode](https://leetcode.com/u/AsrithaDasari/)
+🔗 [HackerRank](https://www.hackerrank.com/profile/22A31A0506)
+🔗 [StrataScratch](https://platform.stratascratch.com/user/Asritha50)h
 
 ---
 
